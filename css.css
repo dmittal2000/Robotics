@@ -1,0 +1,27 @@
+/* CSS Document */
+.bg-img{
+background-image: url("img/2.jpg");
+height:1000px;
+background-repeat: no-repeat;
+}
+.bg-img2{
+background-image:url("img/3.jpg");
+background-size:cover;
+background-repeat: no-repeat;
+height:287px;width:1520px;
+filter: blur(12px);
+  -webkit-filter: blur(12px);
+  }
+.box1{
+margin-top:120px;
+float:left;
+}
+.box2{
+margin-top:120px;
+float:right;
+}
+.exp{
+margin-top:80px;
+}
+.pic{
+margin-top:95px;}
